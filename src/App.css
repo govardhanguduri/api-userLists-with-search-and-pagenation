@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+
+.thead{
+  background-color: #4B0082;
+}
+
+.heading{
+  color: #ffffff;
+}
+
+.form-control{
+  width: 150px;
+  margin: auto;
+  
+}
+
+.container-fluid{
+  margin-bottom: 10px;
+}
+
+
+.main-heading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+
+.home{
+  margin: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.pagebutton {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #4B0082;
+  height: 20px;
+  width: 30px;
+  background-color: aqua;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
